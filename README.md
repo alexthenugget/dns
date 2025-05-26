@@ -24,7 +24,7 @@
 
 `git clone https://github.com/ваш-репозиторий/dns.git`
 
-`cd dns-resolver`
+`cd dns`
 
 Запустите сервер (по умолчанию слушает 127.0.0.1:53):
 
